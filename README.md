@@ -21,20 +21,8 @@ The goal of this project is to analyze the sentiment expressed in five Shakespea
 
 After running the sentiment analysis code, the poems are ranked based on their sentiment scores. A brief analysis is provided for each poem to explain the sentiment score in context.
 
-### Feasibility of Statistical Methods
-
-The sentiment analysis utilizes NLTK's `SentimentIntensityAnalyzer` to compute compound sentiment scores for each sentence and then calculates the average compound score for the overall sentiment. This method provides a feasible approach to gauge sentiment in literary texts.
-
-### Extended Applications
-
-Sentiment analysis techniques demonstrated in this assignment have broad applications:
-
-- **Content Recommendation Systems:** Personalize content recommendations based on user sentiment.
-
-- **Customer Feedback Analysis:** Gain insights from customer sentiments to improve products/services.
-
-- **Market Research:** Analyze public sentiment towards brands and products for informed marketing strategies.
-
-- **Literary and Cultural Studies:** Automate sentiment analysis of literary works to identify trends and themes over time.
-
-These applications showcase the versatility of sentiment analysis in various domains, aiding decision-making and enhancing user experiences.
+- Shakespeare_Juliets Soliloquy: Reflects sadness and fear as Juliet contemplates her fate, resulting in a negative sentiment score.
+- Shakespeare_Sonnet 130: Uses humor and irony to describe love, resulting in a positive sentiment score.
+- Shakespeare_A Fair Song: Portrays admiration for the fairy queen, with a moderately positive sentiment score. 
+- Shakespeare_Blow, Blow, Thou Winter Wind: Conveys a negative outlook on winter and love, with a relatively positive sentiment score.
+- Shakespeare_Fear No More: Reflects on mortality and acceptance, leaning towards a negative sentiment.
